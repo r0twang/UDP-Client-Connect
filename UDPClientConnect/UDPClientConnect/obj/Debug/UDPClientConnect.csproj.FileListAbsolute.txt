@@ -1,0 +1,9 @@
+C:\Dropzone\gym\udpclientconnect\UDPClientConnect\UDPClientConnect\bin\Debug\UDPClientConnect.exe.config
+C:\Dropzone\gym\udpclientconnect\UDPClientConnect\UDPClientConnect\bin\Debug\UDPClientConnect.exe
+C:\Dropzone\gym\udpclientconnect\UDPClientConnect\UDPClientConnect\bin\Debug\UDPClientConnect.pdb
+C:\Dropzone\gym\udpclientconnect\UDPClientConnect\UDPClientConnect\obj\Debug\UDPClientConnect.csprojResolveAssemblyReference.cache
+C:\Dropzone\gym\udpclientconnect\UDPClientConnect\UDPClientConnect\obj\Debug\UDPClientConnect.Form1.resources
+C:\Dropzone\gym\udpclientconnect\UDPClientConnect\UDPClientConnect\obj\Debug\UDPClientConnect.Properties.Resources.resources
+C:\Dropzone\gym\udpclientconnect\UDPClientConnect\UDPClientConnect\obj\Debug\UDPClientConnect.csproj.GenerateResource.Cache
+C:\Dropzone\gym\udpclientconnect\UDPClientConnect\UDPClientConnect\obj\Debug\UDPClientConnect.exe
+C:\Dropzone\gym\udpclientconnect\UDPClientConnect\UDPClientConnect\obj\Debug\UDPClientConnect.pdb
